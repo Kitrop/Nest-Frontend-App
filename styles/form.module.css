@@ -1,0 +1,17 @@
+.form {
+    margin-top: 50px;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+
+.form_input {
+    margin: 5px 0px 4px 0px;
+}
+
+.form_btn {
+    width: 155px;
+    padding: 5px 4px;
+    margin-top: 4px;
+}
