@@ -16,8 +16,8 @@ Frontend разработан с использованием **TypeScript** и 
 ## ⚙️ Основные зависимости
 
 - ![Next.js](https://img.shields.io/badge/-Next.js-000000?style=flat-square&logo=Next.js&logoColor=white): Фреймворк React для создания серверного рендеринга и статических сайтов.
-- ![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=React&logoColor=white) : Библиотека для создания пользовательских интерфейсов.
-- ![TypeScript](https://img.shields.io/badge/-TypeScript-007ACC?style=flat-square&logo=TypeScript&logoColor=white) : Статически типизированный JavaScript.
+- ![React](https://img.shields.io/badge/-React-000000?style=flat-square&logo=React&logoColor=white) : Библиотека для создания пользовательских интерфейсов.
+- ![TypeScript](https://img.shields.io/badge/-TypeScript-000000?style=flat-square&logo=TypeScript&logoColor=white) : Статически типизированный JavaScript.
 - ![JWT](https://img.shields.io/badge/-JWT-000000?style=flat-square&logo=JSON%20Web%20Tokens&logoColor=white) : JSON Web Tokens для безопасной аутентификации.
 - ![Axios](https://img.shields.io/badge/-Axios-000000?style=flat-square&logo=Axios&logoColor=white) **Axios**: Библиотека для отправки HTTP-запросов.
 
