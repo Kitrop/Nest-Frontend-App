@@ -4,6 +4,7 @@ import axios from "axios";
 import {RequestCookie} from "next/dist/compiled/@edge-runtime/cookies";
 import {useCookies} from "react-cookie";
 import {decode} from 'jsonwebtoken'
+import styles from '@/styles/main.module.css'
 
 const HeaderLinks = () => {
 
@@ -27,7 +28,7 @@ const HeaderLinks = () => {
       {accessToken ? (
         <>
           <span>{decoded.email}</span>
-          <span onClick={logout}>logout</span>
+          <span className={styles.cursorPointer} onClick={logout}>logout</span>
         </>
       ) : (
         <>

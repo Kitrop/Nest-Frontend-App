@@ -29,8 +29,8 @@ const Login = () => {
 
   return (
     <form onSubmit={handleSubmit} id={'form'} className={styles.form}>
-      <input type={'email'} name={'email'} className={styles.form_input} placeholder={'email@gmail.com'} value={'admin@admin.com'}/>
-      <input type={'password'} name={'password'} className={styles.form_input} placeholder={'password'} value={'strongPa$$w0rd_'}/>
+      <input type={'email'} name={'email'} className={styles.form_input} placeholder={'email@gmail.com'} />
+      <input type={'password'} name={'password'} className={styles.form_input} placeholder={'password'} />
       <button type={'submit'} className={styles.form_btn}>LOGIN</button>
     </form>
   );

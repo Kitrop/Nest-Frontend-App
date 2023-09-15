@@ -40,3 +40,7 @@
 .home_link {
     text-decoration: underline white;
 }
+
+.cursor-pointer {
+    cursor: pointer;
+}
